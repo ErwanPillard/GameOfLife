@@ -9,3 +9,4 @@
 
 # Ignorer tous les fichiers objets
 *.o
+*.dSYM
