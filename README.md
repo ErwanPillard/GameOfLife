@@ -47,6 +47,14 @@ You can easily test these patterns by loading them as input files.
 
 2. **Run the Simulation**:
    - The program reads the input file, initializes the grid, and iterates through generations based on the rules.
+   To simulate use IDE or gcc : 
+   ```
+    gcc -g -O0 -Wall lab1b.c lifegame.c -o lab1b.o
+   ```
+   ```
+    ./lab1b.o glider/glidergun.txt 
+   ```
+   
 
 3. **Output**:
    - The current state of the grid is displayed in the console at each generation.
