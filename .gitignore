@@ -1,0 +1,11 @@
+# Ignorer un fichier spécifique
+#secret.txt
+
+# Ignorer tous les fichiers d'un dossier
+#dossier_a_ignorer/
+
+# Ignorer tous les fichiers avec une extension particulière
+#*.log
+
+# Ignorer tous les fichiers objets
+*.o
